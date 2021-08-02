@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+
+#educationDiv{
+    height: 80vh;
+    position: relative;
+    bottom: 15rem;
+    left: 7rem;
+    width: 85%;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.educationHeading{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFDFA;
+    margin-bottom: 7rem;
+}
+
+.collegeImg{
+    float: left;
+}
+
+.Btechheading{
+    position: relative;
+    left: 7rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFDFA;
+    margin-bottom: 3rem;
+}
+
+.aboutEdu{
+    position: relative;
+    left:5.3rem;
+    font-family: 'PT Serif', serif;
+    font-weight: normal;
+}

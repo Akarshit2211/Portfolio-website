@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+#background_video{
+    width: 55vw;
+    height: 65vh;
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+    position: relative;
+    left: 10rem;
+    right: 0;
+    top: 6rem;
+    bottom: 0;
+    z-index: -100;
+    filter: opacity(60%);
+    box-shadow: 0.05px 0.05px 15px 0.5px #FFFDFA;
+}
+
+h1{
+    color: #FFFDFA;
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 0.9;
+}
+
+h2{
+    color: #FFFDFA;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 0.9;
+}
+
+h4{
+    color: #FFFDFA;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 0.9;
+}
+
+#span1{
+    line-height: 1.5;
+}
+
+.introDiv{
+    position: relative;
+    bottom: 24rem;
+    left: 11rem;
+}
+
+.socialLinks{
+    display: block;
+    position: relative;
+    left: 10rem;
+    bottom: 25rem;
+    width: 25rem;
+}
+
+.socialLogos{
+    box-sizing: border-box;
+    margin: 2rem;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.socialLogos:hover{
+    transform: scale(1.2);
+}
+

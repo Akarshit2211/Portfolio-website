@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+
+#skillsDiv{
+    position: relative;
+    left: 6rem;
+    bottom: 22rem;
+    padding: 3rem 0rem;
+    width: 78.5rem;
+    box-sizing: border-box;
+    margin: 2rem;
+    height: 150vh;
+}
+
+.skillsHeading{
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFDFA;
+    text-align: center;
+    margin-bottom: 8rem;
+    font-size: 4rem;
+}
+
+h3{
+    color: #FFFDFA;
+    position: relative;
+    left: 1.4rem;
+    bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.skill{
+    width: 7rem;
+    margin: 0 5rem;
+    display: inline-block;
+}
+
+.python{
+    position: relative;
+    font-size: 1.5rem;
+    left: 0.3rem;
+}
+
+#html{
+    position: relative;
+    left: 1rem;
+}
+
+#css{
+    left: 1.6rem;
+}
+
+.backgroundImage{
+    display: grid;
+    position: relative;
+    left: 0rem;
+    bottom: 4rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+    float: left;
+}
+
+.webDevHeading{
+    position: relative;
+    left: 6rem;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.webDList{
+    
+}
+
+.skillPoint{
+    
+}
+
+p{
+    color: #FFFDFA;
+    font-size: 1.5rem;
+    font-family: 'PT Serif', serif;
+}
+
+.otherSkills{
+    text-align: center;
+    position: relative;
+    top: 18rem;
+    right: 16rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFDFA;
+    font-size: 3rem;
+}
+
+.cDiv{
+    position: relative;
+    top: 20rem;
+    right: 25rem;
+}
+
+.cLang{
+    position: relative;
+    left: 1.5rem;
+    font-family: 'PT Serif', serif;
+}
+
+.pyDiv{
+    position: relative;
+    top: 8.9rem;
+    left: 37rem;
+    width: 8rem;
+}
+
+.pyLang{
+    position: relative;
+    left: 0.5rem;
+    font-family: 'PT Serif', serif;
+}
+
+.mlDiv{
+    position: relative;
+    left: 59rem;
+    bottom: 2.35rem;
+    width: 17rem;
+}
+
+.mlImage{
+    position: relative;
+    left: 6.8rem;
+}
+
+.ml{
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}

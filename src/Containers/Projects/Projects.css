@@ -1,0 +1,10 @@
+#projectsDiv{
+    position: relative;
+    bottom: 20rem;
+    left: 9rem;
+    width: 80vw;
+}
+
+.projectsHeading{
+    text-align: center;
+}
