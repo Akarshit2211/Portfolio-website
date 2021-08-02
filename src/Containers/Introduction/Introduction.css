@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
 #background_video{
-    width: 55vw;
-    height: 65vh;
+    width: 60rem;
+    height: 30rem;
     margin: 0;
     padding: 0;
     object-fit: cover;
